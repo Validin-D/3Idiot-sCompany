@@ -1,0 +1,118 @@
+
+body{
+    background-image: url("background1.jpg"); 
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color:white; 
+    font-family:"Luckiest Guy"; 
+    font-size: 60px;
+}
+
+h2{
+    color:white; 
+    font-family:"Luckiest Guy"; 
+    font-size: 50px ; 
+}
+h4{
+    font-family:"Redaction 35", "serif"; 
+    font-style: italic ;  
+    font-size: 25px;
+}
+
+#heading1{
+    text-align: center;
+    margin-top: 100px; 
+    position:relative; 
+    left: 50px;
+    bottom: 850px; 
+ 
+}
+#heading2{
+    text-align: center;
+    position:relative; 
+    bottom: 50px;
+    right: 0px; 
+    left: 40px; 
+    bottom: 900px; 
+}
+#text1{
+    text-align: center;
+    font-size: 27px;
+    position:relative; 
+    width: 950px;
+    margin-left: 50%;
+    right: 450px;
+    bottom: 825px; 
+   
+
+}
+#line1{
+    position: relative;
+    bottom: 800px;  
+    background-color: black; 
+    height: 4px; 
+    
+}
+button{
+    font-family: "Press Start 2P", "Redaction 35"; 
+    font-size: 25px;
+    color: red;
+    height: 50px;
+    width: 500px;
+    background-color: white;
+    border-radius: 80px;
+    border-style: hidden;
+    font-style: italic;
+    position:relative; 
+    bottom: 800px; 
+}
+/* button1 = About us */
+#button1{
+    text-align: center;
+    margin-left: 100px;
+    position:relative; 
+    top: 50px; 
+    right : 450px;
+}
+/* button2 = Our products */
+#button2{ 
+    text-align: center;
+    margin-left: 500px;
+    margin-bottom: 10px;
+    position:relative; 
+    top: 100px; 
+    right: 225px; 
+
+}
+/* button 3 = Why us? */
+#button3{
+    text-align: center; 
+    position:relative; 
+    bottom: 77px; 
+    left : 400px;
+
+}
+/* TUNG TUNG TUNG Sahur */
+#image1{
+    text-align: center;
+    position: relative;
+    left: 475px; 
+    top: 150px; 
+
+}
+#image2{
+    text-align: center;
+    position: relative;
+    right : 475px; 
+    bottom: 260px;   
+}
+#audio1{
+    text-align: center;
+     position: relative;
+    right : 0px; 
+    bottom: 350px;   
+}
